@@ -22,3 +22,9 @@ gleam run -m lustre/dev build app --outdir=../server/priv/static
 - Lustre ssr
 - Lustre csr
 - Deploy to railway/fly/etc buttons
+
+
+---
+
+## TODO
+- Look into https://github.com/Pevensie/pevensie
