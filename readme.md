@@ -1,3 +1,6 @@
+> [!caution]
+> Name is taken sadly. https://hexdocs.pm/comet/index.html
+
 # Comet
 
 This will become a github template repository for fullstack gleam, once I figure how to configure it nicely.
@@ -38,10 +41,3 @@ gleam run -m lustre/dev build app --outdir=../server/priv/static
 
 ## TODO
 - Look into https://github.com/Pevensie/pevensie
-
-
----
-
-Why comet?
-
-Lucy is a star, shooting stars are also called comet. I could probably make a kawaii logo for comet.
