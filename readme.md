@@ -1,5 +1,6 @@
 > [!caution]
 > Name is taken sadly. https://hexdocs.pm/comet/index.html
+> Alternative name ideas: `constellation` or `starfield`.
 
 # Comet
 
