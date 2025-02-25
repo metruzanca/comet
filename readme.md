@@ -36,7 +36,8 @@ gleam run -m lustre/dev build app --outdir=../server/priv/static
 - Lustre ssr
 - Lustre csr
 - Deploy to railway/fly/etc buttons
-
+- Server-Sent-Events (SSE)
+- Websockets
 
 ---
 
